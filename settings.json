@@ -1,0 +1,32 @@
+{
+   "files.autoSave": "afterDelay",
+   "liveServer.settings.donotShowInfoMsg": true,
+   "editor.wordWrap": "bounded",
+   "editor.fontFamily": "DejaVu Sans Mono",
+   "editor.fontWeight": "normal",
+   "editor.formatOnSave": true,
+   "editor.fontLigatures": false,
+   "formatOnSave": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "workbench.colorTheme": "One Dark Pro Darker",
+   "terminal.integrated.defaultProfile.windows": "Command Prompt",
+   "terminal.integrated.enableMultiLinePasteWarning": false,
+   "explorer.confirmDelete": false,
+   "explorer.confirmDragAndDrop": false,
+   "javascript.updateImportsOnFileMove.enabled": "always",
+   "[python]": {
+     "editor.formatOnType": true
+   },
+   "git.openRepositoryInParentFolders": "never",
+   "liveServer.settings.donotVerifyTags": true,
+   "vscode-edge-devtools.webhint": false,
+   "chatgpt.lang": "en",
+   "workbench.iconTheme": "vscode-icons",
+   "typescript.updateImportsOnFileMove.enabled": "always",
+   "editor.tabSize": 3,
+   "editor.fontSize": 16,
+   "[typescript]": {
+     "editor.defaultFormatter": "esbenp.prettier-vscode"
+   }
+ }
+ 
